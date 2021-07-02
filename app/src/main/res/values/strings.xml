@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" >Scroll View And Resources WE</string>
+    <string name="enter_your_name_hint">Enter your Name</string>
+    <string name="enter_your_id_hint" >Enter your ID</string>
+    <string name="enter_your_DOB_hint" >Enter your DOB</string>
+    <string name="enter_your_bloodgroup_hint" >Enter your Blood Group</string>
+    <string name="enter_your_phone_number_hint">Enter You phone number</string>
+    <string name="enter_your_state_hint">Enter your State</string>
+    <string name="enter_your_district_hint">Enter your District</string>
+    <string name="enter_your_add_hint">Enter your Address</string>
+
+</resources>

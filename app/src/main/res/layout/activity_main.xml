@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            style="@style/customEdittext"
+            android:hint="@string/enter_your_name_hint" />
+
+        <EditText
+            style="@style/customEdittext"
+            android:hint="@string/enter_your_id_hint" />
+
+        <EditText
+            style="@style/customEdittext"
+            android:hint="@string/enter_your_DOB_hint" />
+
+        <EditText
+            style="@style/customEdittext"
+            android:hint="@string/enter_your_bloodgroup_hint" />
+
+        <EditText
+            style="@style/customEdittext"
+            android:hint="@string/enter_your_phone_number_hint" />
+
+        <EditText
+            style="@style/customEdittext"
+            android:hint="@string/enter_your_state_hint" />
+
+        <EditText
+            style="@style/customEdittext"
+            android:hint="@string/enter_your_district_hint" />
+
+        <EditText
+            style="@style/customEdittext"
+            android:hint="@string/enter_your_add_hint" />
+    </LinearLayout>
+
+</ScrollView>
